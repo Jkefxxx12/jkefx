@@ -1,17 +1,17 @@
-## Thanks for Everything 
-### We will always remember you..
+## ITS ME       JK
+### DEVELOPER  &  EDITOR 💻  [IG _JK_EFX_]
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/fe0c46a730ac0e507dd57.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="jkefx.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Badboy" src="https://img.shields.io/badge/BADBMODER-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Jk" src="https://img.shields.io/badge/JKEFX-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BADBMODER"><img title="Author" src="https://img.shields.io/badge/Author-BADBMODER/Badboy?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/JKEFX"><img title="Author" src="https://img.shields.io/badge/Author-JKEFX/Jk?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make it public
+Project created by <a href="https://github.com/JKEFX">JKEFX</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,18 +21,18 @@ Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/BADBMODER/Badboy ">
-    <img src="https://img.shields.io/github/repo-size/BADBMODER/Badboy?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/JKEFX/Jk ">
+    <img src="https://img.shields.io/github/repo-size/JKEFX/Jk?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/BADBMODER/followers"><img title="Followers" src="https://img.shields.io/github/followers/BADBMODER?color=red&style=flat-circle"></a>
-<a href="https://github.com/BADBMODER/Badboy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/BADBMODER/Badboy?color=red&style=flat-square"></a>
-<a href="https://github.com/BADBMODER/Badboy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BADBMODER/Badboy?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/JKEFX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JKEFX?color=red&style=flat-circle"></a>
+<a href="https://github.com/JKEFX/Jk/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JKEFX/Jk?color=red&style=flat-square"></a>
+<a href="https://github.com/JKEFX/Jk/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JKEFX/Jk?color=red&style=flat-square"></a>
+<a href="https://github.com/JKEFX/Jk/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/JKEFX/Jk?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-Badboy - Badboy Userbot is Open Source software open to development. 
+Jk - Jk Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -54,7 +54,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JKEFX/Jk)
      </div>
 <br>
 <br >
@@ -72,7 +72,7 @@ This project is open source so all the codes are clear. Neither less nor more; y
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
 ### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/jkefx) .
 
 ### ⚠️ Warning! 
 ```
@@ -85,9 +85,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![BADBMODER](https://github.com/BADBMODER.png?size=100)](https://github.com/BADBMODER) 
+  [[![JKEFX](https://github.com/JKEFX.png?size=100)](https://github.com/JKEFX) 
 
-[BADBMODER](https://github.com/BADBMODER)
+[JKEFX](https://github.com/JKEFX)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
